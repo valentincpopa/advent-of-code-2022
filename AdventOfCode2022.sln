@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissors", "RockPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RucksackReorganization", "RucksackReorganization\RucksackReorganization.csproj", "{C831AE45-9A87-4E65-8150-2EE823805E62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampCleanup", "CampCleanup\CampCleanup.csproj", "{AFE901E4-ED00-4AB8-9998-66D68E7007DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampCleanup", "CampCleanup\CampCleanup.csproj", "{AFE901E4-ED00-4AB8-9998-66D68E7007DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupplyStacks", "SupplyStacks\SupplyStacks.csproj", "{7AEAB155-F6A1-424B-9395-4CE18CE12A35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupplyStacks", "SupplyStacks\SupplyStacks.csproj", "{7AEAB155-F6A1-424B-9395-4CE18CE12A35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuningTrouble", "TuningTrouble\TuningTrouble.csproj", "{3943ED0A-F699-417F-A288-42DBCDBF527F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TuningTrouble", "TuningTrouble\TuningTrouble.csproj", "{3943ED0A-F699-417F-A288-42DBCDBF527F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSpaceLeftOnDevice", "NoSpaceLeftOnDevice\NoSpaceLeftOnDevice.csproj", "{A9F6940D-7392-4760-B7A6-52C457EC17EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoSpaceLeftOnDevice", "NoSpaceLeftOnDevice\NoSpaceLeftOnDevice.csproj", "{A9F6940D-7392-4760-B7A6-52C457EC17EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTopTreeHouse", "TreeTopTreeHouse\TreeTopTreeHouse.csproj", "{8F42B5A5-F8CA-4457-88EE-A6E5AE1C2459}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A9F6940D-7392-4760-B7A6-52C457EC17EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9F6940D-7392-4760-B7A6-52C457EC17EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9F6940D-7392-4760-B7A6-52C457EC17EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F42B5A5-F8CA-4457-88EE-A6E5AE1C2459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F42B5A5-F8CA-4457-88EE-A6E5AE1C2459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F42B5A5-F8CA-4457-88EE-A6E5AE1C2459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F42B5A5-F8CA-4457-88EE-A6E5AE1C2459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
