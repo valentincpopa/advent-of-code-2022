@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopeBridge", "RopeBridge\Ro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CathodeRayTube", "CathodeRayTube\CathodeRayTube.csproj", "{98E9B935-3630-4D1C-A335-D611F67F359D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeyInTheMiddle", "MonkeyInTheMiddle\MonkeyInTheMiddle.csproj", "{F8A892B4-A093-43C5-A776-427740C909C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{98E9B935-3630-4D1C-A335-D611F67F359D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98E9B935-3630-4D1C-A335-D611F67F359D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98E9B935-3630-4D1C-A335-D611F67F359D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A892B4-A093-43C5-A776-427740C909C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A892B4-A093-43C5-A776-427740C909C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A892B4-A093-43C5-A776-427740C909C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A892B4-A093-43C5-A776-427740C909C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
