@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TuningTrouble", "TuningTrou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoSpaceLeftOnDevice", "NoSpaceLeftOnDevice\NoSpaceLeftOnDevice.csproj", "{A9F6940D-7392-4760-B7A6-52C457EC17EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTopTreeHouse", "TreeTopTreeHouse\TreeTopTreeHouse.csproj", "{8F42B5A5-F8CA-4457-88EE-A6E5AE1C2459}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeTopTreeHouse", "TreeTopTreeHouse\TreeTopTreeHouse.csproj", "{8F42B5A5-F8CA-4457-88EE-A6E5AE1C2459}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopeBridge", "RopeBridge\RopeBridge.csproj", "{71C282E3-1D8B-40B7-967D-FE17E0D376A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RopeBridge", "RopeBridge\RopeBridge.csproj", "{71C282E3-1D8B-40B7-967D-FE17E0D376A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CathodeRayTube", "CathodeRayTube\CathodeRayTube.csproj", "{98E9B935-3630-4D1C-A335-D611F67F359D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CathodeRayTube", "CathodeRayTube\CathodeRayTube.csproj", "{98E9B935-3630-4D1C-A335-D611F67F359D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeyInTheMiddle", "MonkeyInTheMiddle\MonkeyInTheMiddle.csproj", "{F8A892B4-A093-43C5-A776-427740C909C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyInTheMiddle", "MonkeyInTheMiddle\MonkeyInTheMiddle.csproj", "{F8A892B4-A093-43C5-A776-427740C909C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HillClimbingAlgorithm", "HillClimbingAlgorithm\HillClimbingAlgorithm.csproj", "{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HillClimbingAlgorithm", "HillClimbingAlgorithm\HillClimbingAlgorithm.csproj", "{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistressSignal", "DistressSignal\DistressSignal.csproj", "{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,10 +83,10 @@ Global
 		{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84F22258-EC2B-476A-806E-EC8460BDEB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84F22258-EC2B-476A-806E-EC8460BDEB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84F22258-EC2B-476A-806E-EC8460BDEB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84F22258-EC2B-476A-806E-EC8460BDEB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
