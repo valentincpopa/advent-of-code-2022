@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CathodeRayTube", "CathodeRa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeyInTheMiddle", "MonkeyInTheMiddle\MonkeyInTheMiddle.csproj", "{F8A892B4-A093-43C5-A776-427740C909C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HillClimbingAlgorithm", "HillClimbingAlgorithm\HillClimbingAlgorithm.csproj", "{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,14 @@ Global
 		{F8A892B4-A093-43C5-A776-427740C909C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8A892B4-A093-43C5-A776-427740C909C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8A892B4-A093-43C5-A776-427740C909C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B7A5C6-7A68-48FC-A194-098D2F03CDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F22258-EC2B-476A-806E-EC8460BDEB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F22258-EC2B-476A-806E-EC8460BDEB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F22258-EC2B-476A-806E-EC8460BDEB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F22258-EC2B-476A-806E-EC8460BDEB43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
