@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HillClimbingAlgorithm", "Hi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistressSignal", "DistressSignal\DistressSignal.csproj", "{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegolithReservoir", "RegolithReservoir\RegolithReservoir.csproj", "{E313E6CA-49EB-4E8E-A608-B14FEF8268A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{098D87E7-EE1C-4F1C-871D-696D7D77F8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E313E6CA-49EB-4E8E-A608-B14FEF8268A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E313E6CA-49EB-4E8E-A608-B14FEF8268A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E313E6CA-49EB-4E8E-A608-B14FEF8268A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E313E6CA-49EB-4E8E-A608-B14FEF8268A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
